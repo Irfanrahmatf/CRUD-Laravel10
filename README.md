@@ -19,6 +19,7 @@ The following features are available in this application:
 
 - Laravel
 - MySQL
+- Javascript 
 - Bootstrap
 
 ## Images
